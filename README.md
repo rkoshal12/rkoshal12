@@ -7,7 +7,7 @@
 
 
 ## Current skills that I have learned at Tippe of Buissness College at the University of Iowa
-python,excel,R,SQL
+Python,Excel,R,SQL
 <!--
 **rkoshal12/rkoshal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
