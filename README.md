@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, im Ryan Koshal. 👋
+
+## I'm a current student at the tippe buissnes of college in Iowa university and my major is Buissness Analytics
 
 <!--
 **rkoshal12/rkoshal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
